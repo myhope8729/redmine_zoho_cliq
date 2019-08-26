@@ -1,0 +1,62 @@
+# German strings
+de:
+  error_messenger_invalid_url: "ist keine gültige URL"
+  label_messenger_contact_created: "[%{project_url}] Kontakt %{url} erstellt von *%{user}*"
+  label_messenger_contact_updated: "[%{project_url}] Kontakt %{url} aktualisiert von *%{user}*"
+  label_messenger_contact_zoho_created: "%{project_url} Kontakt %{url} erstellt von *%{user}*"
+  label_messenger_contact_zoho_updated: "%{project_url} Kontakt %{url} aktualisiert von *%{user}*"
+
+  label_messenger_db_entry_created: "[%{project_url}] DB Eintrag %{url} erstellt von *%{user}*"
+  label_messenger_db_entry_updated: "[%{project_url}] DB Eintrag %{url} aktualisiert von *%{user}*"
+  label_messenger_db_entry_zoho_created: "%{project_url} DB Eintrag %{url} erstellt von *%{user}*"
+  label_messenger_db_entry_zoho_updated: "%{project_url} DB Eintrag %{url} aktualisiert von *%{user}*"
+
+  label_messenger_default_not_visible: Standardeinstellung wird aus Sicherheitsgründen nicht angezeigt
+  label_messenger_issue_created: "[%{project_url}] Ticket %{url} erstellt von *%{user}*"
+  label_messenger_issue_updated: "[%{project_url}] Ticket %{url} aktualisiert von *%{user}*"
+  label_messager_issue_zoho_created: "%{project_url} Ticket %{url} erstellt by *%{user}*"
+  label_messenger_issue_zoho_updated: "%{project_url} Ticket %{url} aktualisiert by *%{user}*"
+
+  label_messenger_password_created: "[%{project_url}] Kennwort %{url} erstellt von *%{user}*"
+  label_messenger_password_updated: "[%{project_url}] Kennwort %{url} aktualisiert von *%{user}*"
+  label_messenger_password_zoho_created: "%{project_url} Kennwort %{url} created by *%{user}*"
+  label_messenger_password_zoho_updated: "%{project_url} Kennwort %{url} updated by *%{user}*"
+  
+  label_messenger_project_text_field_info: Leer lassen für Systemstandard.
+  label_messenger_setting: Messenger Einstellung
+  label_messenger_settings_default: Standardeinstellung
+  label_messenger_settings_disabled: Deaktiviert
+  label_messenger_settings_enabled: Aktiviert
+  label_messenger_wiki_created: "[%{project_url}] Wiki %{url} erstellt von *%{user}*"
+  label_messenger_wiki_updated: "[%{project_url}] Wiki %{url} aktualisiert von *%{user}*"
+  label_messenger_wiki_zoho_created: "%{project_url} Wiki %{url} erstellt von *%{user}*"
+  label_messenger_wiki_zoho_updated: "%{project_url} Wiki %{url} aktualisiert von *%{user}*"
+  label_zohocliq: Zoho Cliq
+  label_settings_display_watchers: Beobachter?
+  label_settings_new_include_description: Neue Ticketeschreibung?
+  label_settings_post_contact_updates: Kontakt Updates?
+  label_settings_post_contact: Neue Kontakte?
+  label_settings_post_db_updates: DB Einträge Updates?
+  label_settings_post_db: Neue DB Einträge?
+  label_settings_post_password_updates: Passwort Updates?
+  label_settings_post_password: Neue Passwörter?
+  label_settings_post_private_contacts: Private Kontakte?
+  label_settings_post_private_db: Private DB Einträge?
+  label_settings_post_private_issues: Private Ticket Updates?
+  label_settings_post_private_notes: Private Notizen?
+  label_settings_post_updates: Ticket Updates?
+  label_settings_post_wiki_updates: Wiki Updates?
+  label_settings_post_wiki: Neue Wikis?
+  label_settings_updated_include_description: Ticket Beschreibungsupdates?
+  label_zoho_setting: Zoho cliq
+  label_settings_zoho_authtoken: Authentifizierungstoken für Zoho Cliq
+  label_settings_zoho_channel: Zoho Cliq Kanal
+  label_settings_zoho_username: Messenger-Benutzername für Zoho Cliq
+  label_zoho_channel_button: Get Channels
+  messenger_contacts_intro: Legen Sie fest welche Einträge oder Änderungen für Kontakte im angegebenen Messenger Channel versendet werden.
+  messenger_db_intro: Legen Sie fest welche Einträge oder Änderungen für DB-Einträge im angegebenen Messenger Channel versendet werden.
+  messenger_issue_intro: Legen Sie fest welche Einträge oder Änderungen für Tickets im angegebenen Messenger Channel versendet werden.
+  messenger_passwords_intro: Legen Sie fest welche Einträge oder Änderungen für Passwörter im angegebenen Messenger Channel versendet werden.
+  messenger_settings_project_intro: Wurde die Messenger URL im Administrationsbereich leer gelassen weil man Änderungen nur für bestimmte Projekte an den Messenger schicken will, trägt man in der jeweiligen Projektkonfiguration die Messenger URL ein.
+  messenger_wiki_intro: Legen Sie fest welche Einträge oder Änderungen für Wikis im angegebenen Messenger Channel versendet werden.
+  permission_manage_messenger: Messenger verwalten

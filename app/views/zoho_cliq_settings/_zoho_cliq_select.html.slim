@@ -1,0 +1,7 @@
+p
+  = f.select mf, project_zoho_cliq_options(@zoho_cliq_setting.send(mf)), label: l("label_settings_#{mf}")
+  '
+  em.info[style="display: inline;"]
+    = l(:label_default)
+    ' :
+    = project_setting_zoho_cliq_default_value(mf)
