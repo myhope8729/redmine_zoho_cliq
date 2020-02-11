@@ -5,7 +5,7 @@ require 'redmine_zoho_cliq'
 
 Redmine::Plugin.register :redmine_zoho_cliq do
   name 'Redmine Zoho Cliq'
-  author 'Andres'
+  author 'myhope8729'
   url ''
   author_url ''
   description 'Messenger integration for Zoho Cliq support'
